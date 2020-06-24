@@ -1,3 +1,9 @@
 Hello, MyResolution in 2020 was:
 
 I Can Coding more and more
+1. Menyelesaikan MatDiskrit
+2. Menyelesaikan OS
+3. Menyelesaikan Database
+4. Menyelesaikan Datastructure dan algoritma
+5. Menguasai Java dan Python
+6. Menguasai Python for data science
